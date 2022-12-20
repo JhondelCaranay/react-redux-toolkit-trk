@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "date": "2015-01-01",
+      "title": "Hello World",
+      "content": "This is my first post",
+      "user": 1,
+      "reactions": {
+        "thumbsUp": 0,
+        "hooray": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "id": 2,
+      "date": "2015-01-02",
+      "title": "Hello World 2",
+      "content": "This is my second post",
+      "user": 1,
+      "reactions": {
+        "thumbsUp": 0,
+        "hooray": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      }
+    },
+    {
+      "date": "2022-12-18T03:59:18.156Z",
+      "title": "sample 1",
+      "content": "sample 1",
+      "user": "1",
+      "reactions": {
+        "thumbsUp": 0,
+        "hooray": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      },
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe"
+    }
+  ]
+}
